@@ -1,2 +1,3 @@
 # login-api
-composer require phpmailer/phpmailer #send email
+#send email
+composer require phpmailer/phpmailer 
